@@ -1,2 +1,2 @@
 # smart_house_controller
-Контроллер для умного дома 
+Controller for smart house
